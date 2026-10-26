@@ -1,0 +1,7 @@
+transformers>=4.40,<5
+peft>=0.10
+accelerate>=0.28
+soundfile>=0.12
+numpy>=1.24
+python-dotenv>=1.0
+safetensors>=0.4
